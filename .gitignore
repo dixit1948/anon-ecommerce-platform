@@ -1,0 +1,32 @@
+# Dependency directories
+/vendor/
+/node_modules/
+
+# Environment & config with secrets (DO NOT commit)
+config/db.php
+
+# Uploaded product images (user/admin content)
+/uploads/products/*
+!/uploads/products/.gitkeep
+
+# XAMPP / OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PHP error logs
+*.log
+error_log
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temp / one-time fix scripts
+fix_product_images.php
+fix_images_cli.php
+
+# Screenshots folder (add your own after cloning)
+# screenshots/
