@@ -53,7 +53,7 @@ Complete with admin panel, Razorpay payment gateway, coupon system, and a beauti
 
 | Homepage | Product Page |
 |----------|--------------|
-| ![Homepage](screenshots/homepage.png) | ![Product](screenshots/product.png) |
+| ![Homepage](website-demo-image/desktop.png) | ![Product](screenshots/product.png) |
 
 | Admin Dashboard | Checkout |
 |-----------------|----------|
